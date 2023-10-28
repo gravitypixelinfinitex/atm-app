@@ -121,7 +121,7 @@ public class cardHolder
         cardHolders.Add(new cardHolder("3490693153147110", 4826, "Dawn", "Smith", 54.27));
 
         // Prompt user
-        Console.WriteLine("Welcome to ATM");
+        Console.WriteLine("Welcome to our Pound Sterling ATM");
         Console.WriteLine("Please insert your debit card number: ");
         String debitCardNum = "";
         cardHolder currentUser;
