@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cUVpPk7YgginfyGdRLQ9AHJ4OiFbTS8LZbJU1VCXUcKvSOc/A9k/vHMzTjM5NrmQHooIRKSAF9+tW4OyP1mHSw==",
+  "dgSpecHash": "NJCtLitTYZ2a96vnr0mJixpfNCiXCYGEQbgpTmyvaQTZHgN6rRKdSTocLZUI/xCudgd1uwmHe8wD8ed2HEPscw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\satel\\OneDrive\\Documents\\My C# Projects\\ATM\\ATM\\ATM.csproj",
+  "projectFilePath": "C:\\Users\\satel\\Desktop\\GitHub CSharp ConsoleApp Project atm-app\\atm-app\\ATM\\ATM.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

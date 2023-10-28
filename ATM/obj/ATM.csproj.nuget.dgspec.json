@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\satel\\OneDrive\\Documents\\My C# Projects\\ATM\\ATM\\ATM.csproj": {}
+    "C:\\Users\\satel\\Desktop\\GitHub CSharp ConsoleApp Project atm-app\\atm-app\\ATM\\ATM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\satel\\OneDrive\\Documents\\My C# Projects\\ATM\\ATM\\ATM.csproj": {
+    "C:\\Users\\satel\\Desktop\\GitHub CSharp ConsoleApp Project atm-app\\atm-app\\ATM\\ATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\satel\\OneDrive\\Documents\\My C# Projects\\ATM\\ATM\\ATM.csproj",
+        "projectUniqueName": "C:\\Users\\satel\\Desktop\\GitHub CSharp ConsoleApp Project atm-app\\atm-app\\ATM\\ATM.csproj",
         "projectName": "ATM",
-        "projectPath": "C:\\Users\\satel\\OneDrive\\Documents\\My C# Projects\\ATM\\ATM\\ATM.csproj",
+        "projectPath": "C:\\Users\\satel\\Desktop\\GitHub CSharp ConsoleApp Project atm-app\\atm-app\\ATM\\ATM.csproj",
         "packagesPath": "C:\\Users\\satel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\satel\\OneDrive\\Documents\\My C# Projects\\ATM\\ATM\\obj\\",
+        "outputPath": "C:\\Users\\satel\\Desktop\\GitHub CSharp ConsoleApp Project atm-app\\atm-app\\ATM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\satel\\AppData\\Roaming\\NuGet\\NuGet.Config",
